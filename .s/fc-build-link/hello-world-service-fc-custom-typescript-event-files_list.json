@@ -1,0 +1,20 @@
+{
+  "package-lock.json": {
+    "sourceFileType": "file",
+    "buildFileType": "link",
+    "buildFilePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/.s/build/artifacts/hello-world-service/fc-custom-typescript-event/package-lock.json",
+    "sourcePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/code/package-lock.json"
+  },
+  "package.json": {
+    "sourceFileType": "file",
+    "buildFileType": "link",
+    "buildFilePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/.s/build/artifacts/hello-world-service/fc-custom-typescript-event/package.json",
+    "sourcePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/code/package.json"
+  },
+  "server.ts": {
+    "sourceFileType": "file",
+    "buildFileType": "link",
+    "buildFilePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/.s/build/artifacts/hello-world-service/fc-custom-typescript-event/server.ts",
+    "sourcePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/code/server.ts"
+  }
+}
