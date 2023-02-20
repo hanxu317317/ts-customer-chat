@@ -1,5 +1,5 @@
 import * as http from 'http';
-
+console.log("this is init");
 const server = http.createServer(function (req: http.IncomingMessage, res: http.ServerResponse): void {
   var rid = req.headers["x-fc-request-id"];
   console.log(`FC Invoke Start RequestId: ${rid}`);
