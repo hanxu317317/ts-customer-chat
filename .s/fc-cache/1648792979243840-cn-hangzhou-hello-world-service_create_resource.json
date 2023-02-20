@@ -1,0 +1,6 @@
+{
+  "serviceName": "hello-world-service",
+  "functionNames": [
+    "hello-world-service/fc-custom-typescript-event"
+  ]
+}

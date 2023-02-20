@@ -1,4 +1,16 @@
 {
+  "bootstrap": {
+    "sourceFileType": "file",
+    "buildFileType": "link",
+    "buildFilePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/.s/build/artifacts/hello-world-service/fc-custom-typescript-event/bootstrap",
+    "sourcePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/code/bootstrap"
+  },
+  "index.ts": {
+    "sourceFileType": "file",
+    "buildFileType": "link",
+    "buildFilePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/.s/build/artifacts/hello-world-service/fc-custom-typescript-event/index.ts",
+    "sourcePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/code/index.ts"
+  },
   "package-lock.json": {
     "sourceFileType": "file",
     "buildFileType": "link",
@@ -16,5 +28,11 @@
     "buildFileType": "link",
     "buildFilePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/.s/build/artifacts/hello-world-service/fc-custom-typescript-event/server.ts",
     "sourcePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/code/server.ts"
+  },
+  "tsconfig.json": {
+    "sourceFileType": "file",
+    "buildFileType": "link",
+    "buildFilePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/.s/build/artifacts/hello-world-service/fc-custom-typescript-event/tsconfig.json",
+    "sourcePath": "/Users/ontwo/Documents/newMeiqia/fc-custom-typescript-event/code/tsconfig.json"
   }
 }
